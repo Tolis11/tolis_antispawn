@@ -3,5 +3,7 @@ game "gta5"
 
 client_script {
     "Config.lua",
-    "Client/**.lua"
+    "antiped_cl.lua",
+    "antiprop_cl.lua",
+    "antiveh_cl.lua"
 }
